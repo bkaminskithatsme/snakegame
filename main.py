@@ -1,3 +1,7 @@
+# Snakegame Copycat by Ben Kaminski
+# Uses Turtle Py Lib
+
+
 from snake import *
 from food import *
 from scoreboard import *
